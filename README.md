@@ -1,2 +1,2 @@
-# AoC_2023
-Annual attempt at Advent of Code for 2023
+### Advent of Code
+My attempt at Advent of Code for 2023.
